@@ -1,0 +1,19 @@
+/* #index-body{
+    background-color: #DCDCDC;
+} */
+h1{
+    color: white;
+    position: relative;
+
+}
+.index-header{
+    background-color: darkslategray;
+    padding-left:300px;
+}
+button{
+    background-color: red;
+}
+/* #hide-class-form{
+    background-color: #FF0000;
+    color: #DCDCDC;
+} */
